@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">delcio-wonder-vpn</string>
+    <string name="title_activity_main">delcio-wonder-vpn</string>
+    <string name="package_name">com.delcio.vpn</string>
+    <string name="custom_url_scheme">com.delcio.vpn</string>
+</resources>
