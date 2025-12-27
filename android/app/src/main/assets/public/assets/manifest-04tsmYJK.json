@@ -1,0 +1,36 @@
+
+{
+  "id": "com.delciowonder.vpn.elite",
+  "short_name": "DW VPN",
+  "name": "DÉLCIO WONDER VPN ELITE",
+  "description": "VPN de Alta Performance com IA nativa para Angola. Túnel optimizado para Unitel, Africell e Movicel.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "minimal-ui"],
+  "orientation": "portrait",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "categories": ["utilities", "productivity", "communication"],
+  "screenshots": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2092/2092663.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
