@@ -1,0 +1,7 @@
+{
+  "name": "DELCIO WONDER VPN",
+  "description": "Uma VPN de próxima geração com IA nativa integrada, projetada para otimização de rede e conectividade avançada.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
